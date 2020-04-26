@@ -1,2 +1,2 @@
 # javascript
-Basic java script code practice
+Advanced java script code practice
